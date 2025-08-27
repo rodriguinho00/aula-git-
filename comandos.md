@@ -33,3 +33,7 @@ git status
 
 para criar uma vesão de tudo que foi modificado até aquele momento utilizamos o commit. <br>
 ## importante 
+```bash
+git push
+```
+pull baixa todas as atualizações que o repositório tem no github e não está no seu pc.
